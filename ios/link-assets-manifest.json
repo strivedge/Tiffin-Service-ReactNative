@@ -1,0 +1,101 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Assets/Fonts/Nunito-Black.ttf",
+      "sha1": "6b41ef726f3dba8f3d8889c0f4c4b17832811642"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-BlackItalic.ttf",
+      "sha1": "4912f710fef88cc3770612f053b7a452bc41668d"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-Bold.ttf",
+      "sha1": "dea5eec0aca2aef62e3bfc625cf95f9d45b59687"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-BoldItalic.ttf",
+      "sha1": "6d0327da2af845fdfa6a3cfeb5c123784d087753"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-ExtraBold.ttf",
+      "sha1": "60821838f6675153f0699c6a86ad8467a937e0f5"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-ExtraBoldItalic.ttf",
+      "sha1": "165391d62a4c86447db00b1c28278083aa2f1747"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-ExtraLight.ttf",
+      "sha1": "5147803c00983715429e5f492938c8a3e6552839"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-ExtraLightItalic.ttf",
+      "sha1": "25c78ceeff212006f7a7b449df2baabfeec1742b"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-Italic.ttf",
+      "sha1": "c82dbd0b140a67ab9f201ef062d8377318098399"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-Light.ttf",
+      "sha1": "7879b46e377513f6eb1c52f99000c8e96f36cf6e"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-LightItalic.ttf",
+      "sha1": "b0e913e197ffad44911988e48b2452ee1ea64051"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-Medium.ttf",
+      "sha1": "0e3a9789daa6603bf6870c124727c3643b56574a"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-MediumItalic.ttf",
+      "sha1": "64e9688f18b3e12772d9c4707525f51057be7d3f"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-Regular.ttf",
+      "sha1": "4b7236ba666cb77f00d8cb2a17696cc0dc2b2cc9"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-SemiBold.ttf",
+      "sha1": "876165d70aa2e00f66737c7dd87039e2619bf2c2"
+    },
+    {
+      "path": "Assets/Fonts/Nunito-SemiBoldItalic.ttf",
+      "sha1": "7bd1aee703efa1423dc584f39658e113358561ac"
+    },
+    {
+      "path": "Assets/Fonts/bariol_bold-webfont.ttf",
+      "sha1": "c11ea12c2f615009c1f2e45ecb29f2016e06467e"
+    },
+    {
+      "path": "Assets/Fonts/bariol_bold_italic-webfont.ttf",
+      "sha1": "ea3ffb1b7472030ce79f4aa4ed51d3595fa7433c"
+    },
+    {
+      "path": "Assets/Fonts/bariol_light-webfont.ttf",
+      "sha1": "84a53f9890b2120679dcae12082b0810e9b27b7c"
+    },
+    {
+      "path": "Assets/Fonts/bariol_light_italic-webfont.ttf",
+      "sha1": "5e40272f01aeeb432e2fb5f98e3023279ec6cccd"
+    },
+    {
+      "path": "Assets/Fonts/bariol_regular-webfont.ttf",
+      "sha1": "ae7131e2b008fbb9c72266c2ae3a29e8c007a3d2"
+    },
+    {
+      "path": "Assets/Fonts/bariol_regular_italic-webfont.ttf",
+      "sha1": "577ee1f33413287dbc2ec0d94ed2239aa052c66e"
+    },
+    {
+      "path": "Assets/Fonts/bariol_thin-webfont.ttf",
+      "sha1": "d32ed32bd940157620188794b1efd090ba8ab1b4"
+    },
+    {
+      "path": "Assets/Fonts/bariol_thin_italic-webfont.ttf",
+      "sha1": "396500ec437512238e655a38530e97d0e8dfdde0"
+    }
+  ]
+}
